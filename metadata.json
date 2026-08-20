@@ -1,0 +1,8 @@
+{
+  "name": "Sifat Control",
+  "description": "Sifat Control — Автоматизированная система управления сроками годности FEFO и переоценки товаров ҶДММ «Сифат Фарма» (Душанбе, 2026)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

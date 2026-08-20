@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+dist-app/
+dist-release/
+--win32-x64/
+coverage/
+.DS_Store
+*.log
+*.zip
+*.exe
+.env*
+!.env.example
